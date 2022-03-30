@@ -9,3 +9,6 @@ bicycles = 2
 #Floats
 netflix_subscription = 12.99
 price_of_gas = 3.98
+#blooeans
+passing_mod_0 = true
+happy = true
